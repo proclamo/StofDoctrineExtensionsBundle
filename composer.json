@@ -13,7 +13,7 @@
     ],
     "repositories": [
         {
-            "type": "csv",
+            "type": "vcs",
             "url": "https://github.com/proclamo/DoctrineExtensions"
         }  
     ],
